@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Ferdon Blockchain Inc.
-- 🌱 I’m currently learning Computer Science at Can Tho University.
+- 🌱 I’m currently studying Computer Science at Can Tho University.
 
 <!--
 - 👯 I’m looking to collaborate on ...
