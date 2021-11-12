@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Ferdon Blockchain Inc.
+- 🔭 I’m currently working at Ferdon Blockchain Inc.
 - 🌱 I’m currently studying Computer Science at Can Tho University.
 
 <!--
