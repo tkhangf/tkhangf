@@ -1,0 +1,8 @@
+# https://query.wikidata.org
+
+SELECT ?person ?personLabel WHERE {
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "vi, en". }
+  ?person wdt:P31 wd:Q5.
+  ?person wdt:P27 wd:Q881.
+  ?person wdt:P106 wd:Q33999. 
+}
