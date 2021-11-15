@@ -7,3 +7,5 @@ https://docs.cardano.org/plutus/learn-about-plutus
 https://developers.cardano.org/docs/transaction-metadata/how-to-create-a-metadata-transaction-cli
 
 https://cardano-foundation.gitbook.io/stake-pool-course/
+
+addr_test1vzjv0a83xden9y7yemldn47u3psdlcmy6m9saruknyqqxhsxhrz2c
