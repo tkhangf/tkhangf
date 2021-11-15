@@ -1,1 +1,3 @@
 https://forum.cardano.org/t/guide-for-installing-plutus-playground-locally-on-macos-monterey-with-m1-chip/84840
+
+https://docs.plutus-community.com/docs/setup/Ubuntu.html
