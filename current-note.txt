@@ -3,3 +3,5 @@ https://forum.cardano.org/t/guide-for-installing-plutus-playground-locally-on-ma
 https://docs.plutus-community.com/docs/setup/Ubuntu.html
 
 https://docs.cardano.org/plutus/learn-about-plutus
+
+https://developers.cardano.org/docs/transaction-metadata/how-to-create-a-metadata-transaction-cli
