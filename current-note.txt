@@ -11,3 +11,5 @@ https://cardano-foundation.gitbook.io/stake-pool-course/
 addr_test1vzjv0a83xden9y7yemldn47u3psdlcmy6m9saruknyqqxhsxhrz2c
 
 https://explorer.cardano-testnet.iohkdev.io/tx/4e688ce833fc0d5ead92489cf7e71060567de641e74fdcdd764dac9eac7be3e5
+
+https://github.com/woofpool/cardano-private-testnet-setup/blob/main/1-INSTALL_EXECUTABLES.md
