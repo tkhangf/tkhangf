@@ -15,3 +15,5 @@ https://explorer.cardano-testnet.iohkdev.io/tx/4e688ce833fc0d5ead92489cf7e710605
 https://github.com/woofpool/cardano-private-testnet-setup/blob/main/1-INSTALL_EXECUTABLES.md
 
 https://docs.armada-alliance.com/learn/cardano-developer-guides/cardano-nft-collection-tutorial-coming-soon
+
+https://github.com/Berry-Pool/cardanocli-js
