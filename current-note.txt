@@ -17,3 +17,5 @@ https://github.com/woofpool/cardano-private-testnet-setup/blob/main/1-INSTALL_EX
 https://docs.armada-alliance.com/learn/cardano-developer-guides/cardano-nft-collection-tutorial-coming-soon
 
 https://github.com/Berry-Pool/cardanocli-js
+
+https://docs.armada-alliance.com/learn/cardano-developer-guides/nft-native-assets
