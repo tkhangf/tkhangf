@@ -19,3 +19,5 @@ https://docs.armada-alliance.com/learn/cardano-developer-guides/cardano-nft-coll
 https://github.com/Berry-Pool/cardanocli-js
 
 https://docs.armada-alliance.com/learn/cardano-developer-guides/nft-native-assets
+
+addr_test1qp29n366wtwecwj7sqjkk9c0eyphq2xp37u4a26x2z6ae6cxhp3rhsvnd6xavvmmlts6vggppfsjn7n2kejd6wyzfacq8drdqz
