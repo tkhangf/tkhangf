@@ -23,3 +23,5 @@ https://docs.armada-alliance.com/learn/cardano-developer-guides/nft-native-asset
 addr_test1qp29n366wtwecwj7sqjkk9c0eyphq2xp37u4a26x2z6ae6cxhp3rhsvnd6xavvmmlts6vggppfsjn7n2kejd6wyzfacq8drdqz
 
 https://www.reddit.com/r/cardano/comments/oszivp/any_word_on_when_the_guide_for_installing_a/
+
+cardano-node run --topology ./config/testnet-topology.json --database-path ./db --socket-path ./db/node.socket --host-addr 0.0.0.0  --port 3001 --config ./config/testnet-config.json
