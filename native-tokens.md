@@ -21,6 +21,7 @@ singleton "a8ff" "ABC" 7
 ```
 
 The first argument, “a8ff” for CurrencySymbol” has to be a string representing a hexadecimal value.
+
 The second argument, “ABC” for *TokenName can be an arbitrary string.
 
 ```
