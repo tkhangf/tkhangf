@@ -27,3 +27,5 @@ https://www.reddit.com/r/cardano/comments/oszivp/any_word_on_when_the_guide_for_
 cardano-node run --topology ./config/testnet-topology.json --database-path ./db --socket-path ./db/node.socket --host-addr 0.0.0.0  --port 3001 --config ./config/testnet-config.json
 
 https://edwardtam919.medium.com/how-to-mint-cardano-nft-using-smart-contract-part-ii-ec7eccc77686
+
+addr_test1qp8lxp6pla5yvnn3rw9vkmkgshlcdyn02mxskxugcysve3xasg22hpmnqezzupsymch9zmv2656xtgpp9nqscr9c5vxqzzfn7n
